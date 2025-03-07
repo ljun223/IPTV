@@ -1,6 +1,4 @@
 央视频道,#genre#
-CCTV1,http://117.161.133.51:81/gitv_live/G_CCTV-1/G_CCTV-1.m3u8
-CCTV1,http://120.224.178.16:9901/tsfile/live/0001_1.m3u8
 CCTV1,http://120.76.248.139/live/bfgd/4200000484.m3u8
 CCTV1,http://120.76.248.139/live/bfgd/4200000488.m3u8
 CCTV1,http://124.116.183.146:9901/tsfile/live/0001_1.m3u8
@@ -14,6 +12,8 @@ CCTV1,http://61.138.128.226:19901/tsfile/live/0001_1.m3u8
 CCTV1,http://mom.coms.hk:9901/tsfile/live/0001_1.m3u8
 CCTV1,http://video.qd.sdu.edu.cn/liverespath/b455c7a019d404d571655c457e0ee8a9440a7802/index.m3u8
 CCTV1,http://42.237.178.250:7000/hls/60/index.m3u8
+CCTV1,http://117.161.133.51:81/gitv_live/G_CCTV-1/G_CCTV-1.m3u8
+CCTV1,http://120.224.178.16:9901/tsfile/live/0001_1.m3u8
 CCTV2,http://117.161.12.124/live/program/live/cctv2hd8m/8000000/mnf.m3u8
 CCTV2,http://117.161.133.51:81/gitv_live/G_CCTV-2/G_CCTV-2.m3u8
 CCTV2,http://61.138.54.155:2233/hls/9/index.m3u8
