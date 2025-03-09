@@ -1,5 +1,5 @@
 央视频道,#genre#
-CCTV1,http://media.hndyjyfw.gov.cn/live/jz-cctv-1/live.m3u8
+CCTV1,http://zqjy.info/live.php?id=CCTV1HD
 CCTV1,http://124.116.183.146:9901/tsfile/live/0001_1.m3u8
 CCTV1,http://124.128.73.58:9901/tsfile/live/0001_1.m3u8
 CCTV1,http://223.241.247.214:9901/tsfile/live/0001_1.m3u8
@@ -13,16 +13,19 @@ CCTV1,http://video.qd.sdu.edu.cn/liverespath/b455c7a019d404d571655c457e0ee8a9440
 CCTV1,http://42.237.178.250:7000/hls/60/index.m3u8
 CCTV1,http://117.161.133.51:81/gitv_live/G_CCTV-1/G_CCTV-1.m3u8
 CCTV1,http://120.224.178.16:9901/tsfile/live/0001_1.m3u8
+CCTV2,
 CCTV2,http://117.161.12.124/live/program/live/cctv2hd8m/8000000/mnf.m3u8
 CCTV2,http://117.161.133.51:81/gitv_live/G_CCTV-2/G_CCTV-2.m3u8
 CCTV2,http://61.138.54.155:2233/hls/9/index.m3u8
 CCTV2,http://video.qd.sdu.edu.cn/liverespath/6b13fe5368d391761312a985ace065c0ecad2f5e/index.m3u8
+CCTV3,
 CCTV3,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV3,http://117.161.12.124/live/program/live/cctv38m/8000000/mnf.m3u8
 CCTV3,http://120.76.248.139/live/bfgd/4200000062.m3u8
 CCTV3,http://59.44.102.18:8888/newlive/live/hls/4/live.m3u8
 CCTV3,http://video.qd.sdu.edu.cn/liverespath/f76f9947c68be18d7a456e25aa59a08c5747e6a5/index.m3u8
 CCTV3,http://123.7.110.43:9901/tsfile/live/0003_1.m3u8
+CCTV4,
 CCTV4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 CCTV4,http://120.76.248.139/live/bfgd/4200000063.m3u8
 CCTV4,http://59.44.102.18:8888/newlive/live/hls/5/live.m3u8
@@ -454,6 +457,7 @@ CHC家庭影院,http://xxw.me0.cn/api/migu.php?id=30
 河南新蔡综合,http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8
 河南项城新闻,http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8
 河南沈丘新闻综合,http://live.dxhmt.cn:9081/tv/11624-1.m3u8
+河南沈丘新闻综合,http://tvpull.dxhmt.cn/tv/11624-1.m3u8
 河南都市频道,http://media.hndyjyfw.gov.cn/live/jz-henandushi/live.m3u8
 河南都市频道,http://123.7.110.43:9901/tsfile/live/1000_1.m3u8
 河南滑县新闻,http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8?zhend
