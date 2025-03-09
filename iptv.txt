@@ -38,9 +38,8 @@ CCTV4K,https://cntv.lat/tv/live.php?auth=231110&id=cctv4k
 CCTV4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 CCTV4美洲,http://gmxw.7766.org:808/hls/77/index.m3u8
 CCTV4欧洲,http://gmxw.7766.org:808/hls/67/index.m3u8
-CCTV5,http://zqjy.info/live.php?id=CCTV5PHD
-cctv5,http://154.7.177.5:5000/TVOD/6000000001000016431/wasusyt/index.m3u8
-CCTV,http://8.209.196.123:32768/1000000001000004794/ystenlive/index.m3u8
+CCTV5,http://154.7.177.5:5000/TVOD/6000000001000016431/wasusyt/index.m3u8
+CCTV5,http://8.209.196.123:32768/1000000001000004794/ystenlive/index.m3u8
 CCTV5,http://168.138.160.251:50001/1000000001000018504/ystenlive/index.m3u8
 CCTV5,http://117.161.12.124/live/program/live/cctv5hd8m/8000000/mnf.m3u8
 CCTV5,http://120.76.248.139/live/bfgd/4200000064.m3u8
@@ -48,6 +47,7 @@ CCTV5,http://1732e975z9.zicp.fun:8082/hls/5/index.m3u8
 CCTV5,http://180.143.86.242:8181/tsfile/live/1016_1.m3u8
 CCTV5,http://61.138.54.155:2233/hls/12/index.m3u8
 CCTV5,http://video.qd.sdu.edu.cn/liverespath/3f76badfb3a23d95f26ff573a93902bbdb8b8e98/index.m3u8
+CCTV5+,http://zqjy.info/live.php?id=CCTV5HD
 CCTV5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
 CCTV5+,http://117.161.12.124/live/program/live/cctv5phd8m/8000000/mnf.m3u8
 CCTV5+,http://120.76.248.139/live/bfgd/4200000246.m3u8
