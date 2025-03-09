@@ -1,6 +1,5 @@
 央视频道,#genre#
-CCTV1,http://120.76.248.139/live/bfgd/4200000484.m3u8
-CCTV1,http://120.76.248.139/live/bfgd/4200000488.m3u8
+CCTV1,http://media.hndyjyfw.gov.cn/live/jz-cctv-1/live.m3u8
 CCTV1,http://124.116.183.146:9901/tsfile/live/0001_1.m3u8
 CCTV1,http://124.128.73.58:9901/tsfile/live/0001_1.m3u8
 CCTV1,http://223.241.247.214:9901/tsfile/live/0001_1.m3u8
@@ -39,6 +38,7 @@ CCTV4K,https://cntv.lat/tv/live.php?auth=231110&id=cctv4k
 CCTV4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 CCTV4美洲,http://gmxw.7766.org:808/hls/77/index.m3u8
 CCTV4欧洲,http://gmxw.7766.org:808/hls/67/index.m3u8
+CCTV5,http://media.hndyjyfw.gov.cn/live/jz-cctv-5/live.m3u8
 CCTV5,http://117.161.12.124/live/program/live/cctv5hd8m/8000000/mnf.m3u8
 CCTV5,http://120.76.248.139/live/bfgd/4200000064.m3u8
 CCTV5,http://1732e975z9.zicp.fun:8082/hls/5/index.m3u8
@@ -416,6 +416,8 @@ CHC家庭影院,http://xxw.me0.cn/api/migu.php?id=30
 广东卫视超清,http://58.62.234.251:10000/udp/239.77.0.166:5146
 
 河南频道,#genre#
+河南卫视,http://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8
+河南卫视,http://120.76.248.139/live/bfgd/4200000339.m3u8
 河南卫视,http://117.161.12.124/live/program/live/hnwshd8m/8000000/mnf.m3u8
 河南卫视,http://59.44.102.18:8888/newlive/live/hls/25/live.m3u8
 河南卫视,http://video.qd.sdu.edu.cn/liverespath/4bc76db1677c6cd2176e652ed6fc1cd44d8c297b/index.m3u8
@@ -448,6 +450,8 @@ CHC家庭影院,http://xxw.me0.cn/api/migu.php?id=30
 河南郸城新闻综合,http://live.dxhmt.cn:9081/tv/11625-1.m3u8
 河南新蔡综合,http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8
 河南项城新闻,http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8
+河南|沈丘新闻综合，http://live.dxhmt.cn:9081/tv/11624-1.m3u8
+河南都市频道,http://media.hndyjyfw.gov.cn/live/jz-henandushi/live.m3u8
 河南都市频道,http://123.7.110.43:9901/tsfile/live/1000_1.m3u8
 河南滑县新闻,http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8?zhend
 河南宝丰综合频道,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8?zhend
@@ -455,9 +459,10 @@ CHC家庭影院,http://xxw.me0.cn/api/migu.php?id=30
 河南|泌阳新闻综合,http://tvpull.dxhmt.cn:9081/tv/11726-1.m3u8
 河南叶县,http://live.dxhmt.cn:9081/tv/10422-1.m3u8
 河南嵩县综合新闻,http://tvpull.dxhmt.cn:9081/tv/10325-1.m3u8?zhend
-河南卫视HD,http://120.76.248.139/live/bfgd/4200000339.m3u8
 河南扶沟综合,http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8?zhend
+河南民生,http://media.hndyjyfw.gov.cn/live/jz-henanminsheng/live.m3u8
 河南民生,http://1.195.111.251:11190/tsfile/live/0003_1.m3u8?
+河南民生,http://115.60.241.249:2000/rtp/225.1.4.53:1082
 河南淅川电视,http://live.dxhmt.cn:9081/tv/11326-1.m3u8
 河南济源电视一套,http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8?zhend
 河南|河南新闻,http://live.dxhmt.cn:9081/tv/10825-1.m3u8
@@ -476,12 +481,12 @@ CHC家庭影院,http://xxw.me0.cn/api/migu.php?id=30
 河南周口扶沟,http://live.dxhmt.cn:9081/tv/11621-1.m3u8
 河南|河南都市,http://api2.52tb.xyz/info?id=502&token=20230218htjgzi
 河南兰考新闻,http://live.dxhmt.cn:9081/tv/10225-1.m3u8
+河南梨园,http://media.hndyjyfw.gov.cn/live/jz-henanliyuan/live.m3u8
 河南梨园,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
 河南梨园,https://live.goodiptv.club/api/sxg.php?id=ly_4000
 河南焦作公共,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
 河南焦作综合,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
 义马电视,http://live.dxhmt.cn:9081/tv/11281-1.m3u8
-河南民生频道,http://115.60.241.249:2000/rtp/225.1.4.53:1082
 
 北京频道,#genre#
 北京卫视,http://120.76.248.139/live/bfgd/4200000083.m3u8
